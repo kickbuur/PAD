@@ -4,4 +4,5 @@
 # git init
 # git add .
 # git commit -m "initial load"
-# git remote add
+# git remote add origin https://github.com/kickbuur/PAD.git
+# git push -u origin master
